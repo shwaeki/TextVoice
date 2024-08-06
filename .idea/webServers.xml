@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4308c1d3-f7ab-4b20-9874-bf04b3757f89" name="iPlus (project level)" url="http://170.249.217.50">
+        <fileTransfer rootFolder="/public_html/crm" host="170.249.217.50" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

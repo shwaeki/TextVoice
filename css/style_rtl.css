@@ -1,0 +1,40 @@
+body {
+    font-family: 'Cairo', sans-serif;
+    direction: rtl;
+    text-align: right
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Cairo', sans-serif;
+}
+
+a.store{
+    margin-right: initial;
+    margin-left: 15px;
+}
+
+.play-icon-green{
+    left: initial;
+    right: 75%;
+    margin-left: initial;
+    margin-right: -50px;
+}
+
+
+.p-right-30 {
+    padding-right: initial;
+    padding-left: 30px;
+}
+
+#hero-3 .phone-img {
+    transform: scaleX(1);
+}
+
+#hero-3 .video {
+    margin-left: 0;
+    margin-right: 20px;
+}
+#hero-3 .video-bg {
+    margin-left: 0;
+    margin-right: 20px;
+}
