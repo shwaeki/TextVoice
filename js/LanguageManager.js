@@ -49,10 +49,10 @@ function updateLanguage() {
 
 $(document).ready(function () {
     console.log(language+" "+default_lang);
-    if (language != null ){
-        console.log("2");
+   // if (language != null ){
+     //   console.log("2");
         updateLanguage(language);
-    }
+ //   }
 
     var existingLinks = $('head').find('link[rel="stylesheet"]');
 
